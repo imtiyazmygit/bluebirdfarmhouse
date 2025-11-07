@@ -1,0 +1,75 @@
+========================================
+  QUICK START: SAVE YOUR IMAGES NOW!
+========================================
+
+The website is ready but needs the 8 images you attached.
+
+STEP-BY-STEP INSTRUCTIONS:
+==========================
+
+1. LOCATE THE 8 IMAGES YOU ATTACHED IN CHAT
+   - Look at your recent messages
+   - You shared 8 farmhouse photos showing:
+     * 2 bedroom photos (blue ceiling)
+     * 1 mini pool/jacuzzi (covered)
+     * 1 kitchen (with gas stove)
+     * 1 garden with benches
+     * 2 swimming pool photos
+     * 1 purple room with fridge
+
+2. SAVE EACH IMAGE TO THIS FOLDER:
+   C:\Users\Admin\Desktop\2025\CLIENTS\bluebirdfarmhouse\images\
+
+3. USE THESE EXACT FILENAMES:
+
+   bedroom1.jpg          ← Bedroom with blue designer ceiling (1st photo)
+   bedroom2.jpg          ← Bedroom second view (2nd photo)
+   mini-pool.jpg         ← Covered pool/jacuzzi area (3rd photo)
+   kitchen.jpg           ← Modern kitchen with tiles (4th photo)
+   garden-seating.jpg    ← Lawn with red benches (5th photo)
+   swimming-pool1.jpg    ← Main pool view 1 (6th photo)
+   swimming-pool2.jpg    ← Pool different angle (7th photo)
+   fridge-room.jpg       ← Purple room with refrigerator (8th photo)
+
+4. HOW TO SAVE:
+   - Right-click each image in the chat
+   - Choose "Save Image As..."
+   - Navigate to the images folder
+   - Type the exact filename from above
+   - Click Save
+
+5. VERIFY:
+   - Open: C:\Users\Admin\Desktop\2025\CLIENTS\bluebirdfarmhouse\images\
+   - You should see 8 .jpg files
+   - Total files: 11 (8 images + 3 guide files)
+
+6. TEST THE WEBSITE:
+   - Refresh your browser (Press F5)
+   - All images should now display!
+   - Click any image to test the lightbox
+
+ALTERNATIVE METHOD (If you can't find the images):
+==================================================
+If you have the images elsewhere on your computer:
+1. Find them in your Downloads or Pictures folder
+2. Copy them to: C:\Users\Admin\Desktop\2025\CLIENTS\bluebirdfarmhouse\images\
+3. Rename them using the list in Step 3 above
+
+TROUBLESHOOTING:
+===============
+- Make sure filenames are EXACT (lowercase, no spaces)
+- Make sure they're .jpg format
+- Make sure they're in the 'images' folder
+- After saving, refresh the browser (Ctrl + F5)
+
+NEED HELP?
+==========
+Run this command in PowerShell:
+   cd "C:\Users\Admin\Desktop\2025\CLIENTS\bluebirdfarmhouse\images"
+   dir *.jpg
+
+This will show you which image files are present.
+
+========================================
+After saving images, your website will be 100% complete!
+========================================

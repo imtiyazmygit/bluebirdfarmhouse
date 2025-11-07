@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Blue Bird Farmhouse - Contact</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Blue Bird Farmhouse</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="amenities.html">Amenities</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="location.html">Location</a>
+      <a href="booking.html">Booking</a>
+      <a href="contact.html" class="active">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <!-- WhatsApp Floating Button -->
+    <a href="https://wa.me/919700108331?text=Hi!%20I%20would%20like%20to%20book%20Bluebird%20Farmhouse." 
+       class="whatsapp-float" 
+       target="_blank"
+       title="Book on WhatsApp">
+      💬
+    </a>
+    
+    <section>
+      <h2>Contact Us</h2>
+      <p>For bookings and inquiries, feel free to reach out:</p>
+      <address>
+        Phone: <a href="tel:+919700108331">+91 97001 08331</a><br />
+        Customer Support: <a href="tel:+917200199030">+91 72001 99030</a><br />
+        Email: <a href="mailto:info@bluebirdfarmhouse.in">info@bluebirdfarmhouse.in</a><br />
+        Instagram: <a href="https://www.instagram.com/bluebird.farmhouse" target="_blank" rel="noopener">@bluebird.farmhouse</a>
+      </address>
+      
+      <!-- WhatsApp Booking Button -->
+      <div style="text-align: center; margin: 2rem 0; padding: 2rem; background: linear-gradient(135deg, #25D366 0%, #128C7E 100%); border-radius: 12px; box-shadow: 0 4px 20px rgba(37, 211, 102, 0.3);">
+        <h3 style="color: white; margin-top: 0; font-size: 1.5rem;">📱 Book via WhatsApp</h3>
+        <p style="color: white; margin-bottom: 1.5rem;">Quick and easy booking - Chat with us directly!</p>
+        <a href="https://wa.me/919700108331?text=Hi!%20I%20would%20like%20to%20book%20Bluebird%20Farmhouse.%20Please%20share%20availability%20and%20pricing%20details." 
+           class="whatsapp-button" 
+           target="_blank"
+           style="display: inline-block; background: white; color: #25D366; padding: 15px 40px; border-radius: 50px; font-weight: 700; font-size: 1.2rem; text-decoration: none; box-shadow: 0 4px 15px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+          <span style="font-size: 1.5rem;">💬</span> Chat on WhatsApp
+        </a>
+        <p style="color: rgba(255,255,255,0.9); margin-top: 1rem; font-size: 0.9rem;">
+          Available 24/7 for instant responses
+        </p>
+      </div>
+      
+      <h3>Send us a message</h3>
+      <form id="contactForm" action="https://formspree.io/f/yourformid" method="POST">
+        <label for="name">Name:</label><br />
+        <input type="text" id="name" name="name" required /><br />
+
+        <label for="email">Email:</label><br />
+        <input type="email" id="email" name="_replyto" required /><br />
+
+        <label for="message">Message:</label><br />
+        <textarea id="message" name="message" rows="5" required></textarea><br />
+
+        <button type="submit">Send</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Blue Bird Farmhouse - All Rights Reserved
+  </footer>
+  <script src="js/script.js"></script>
+</body>
+</html>
