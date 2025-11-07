@@ -1,0 +1,54 @@
+BLUE BIRD FARMHOUSE - IMAGE NAMING GUIDE
+=========================================
+
+Please save the 8 attached images to this folder with the following names:
+
+1. bedroom1.jpg
+   - First bedroom image with beautiful blue designer ceiling
+   - Shows marble flooring and modern design
+
+2. bedroom2.jpg
+   - Second bedroom view with similar styling
+   - Features comfortable bedding and natural light
+
+3. mini-pool.jpg
+   - Covered pool/jacuzzi area
+   - Small blue pool under a roof structure
+   - Perfect for relaxation
+
+4. kitchen.jpg
+   - Modern kitchen with decorative tiles
+   - Gas stove with cooking pots
+   - Black granite countertop
+
+5. garden-seating.jpg
+   - Lush green lawn area
+   - Red and blue outdoor benches
+   - Beautiful landscaping with plants
+
+6. swimming-pool1.jpg
+   - Main swimming pool - wide view
+   - Shows the full pool with blue tiles
+   - Ladder and pool railings visible
+   - USED AS HERO IMAGE on homepage
+
+7. swimming-pool2.jpg
+   - Another angle of the main swimming pool
+   - Different perspective showing the pool area
+
+8. fridge-room.jpg
+   - Purple colored room
+   - Black refrigerator for storage
+   - Marble flooring
+
+After saving these images:
+- The website will automatically display them
+- The gallery will show all 8 images with lightbox feature
+- The homepage hero section will use swimming-pool1.jpg
+- All images can be clicked to view in full-screen mode
+
+Image Requirements:
+- Format: JPG
+- Use exact filenames as listed above
+- All lowercase
+- No spaces in filenames
